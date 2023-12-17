@@ -1,4 +1,5 @@
 # Spending Tracker
+JDK is a must in ur laptop.
 ## Overview
 The Spending Tracker project is a simple tool designed to help users track their expenses and manage their spending habits effectively. 
 It provides a user-friendly interface for recording and categorizing transactions, giving users insights into their financial activities.

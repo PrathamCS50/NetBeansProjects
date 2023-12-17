@@ -13,10 +13,11 @@ It provides a user-friendly interface for recording and categorizing transaction
 ## Getting Started
 Download the .exe file and start using it on your PC.
 
-**Contact**
+**##Contact**
 If you have any questions or feedback, feel free to reach out:
 Email: [prathamgoel2002@gmail.com]
 LinkedIn:  http://www.linkedin.com/in/pratham-goel-b02909195
 
-**Acknowledgments**
+**##Acknowledgments**
 Special thanks to Incapp Rahul Chauhan Sir, Youtube Channel [Incapp]
+Along with PR Software Solutions for providing a 15 days online Internship to explore new opportunities.
